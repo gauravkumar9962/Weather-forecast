@@ -54,3 +54,7 @@ A simple weather website that lets users search for any city and view the curren
    ```
 
 2. Open `index.html` in your browser.
+
+## Note:
+- If current API won't work, It's expired.
+- Use your API.
